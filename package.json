@@ -1,7 +1,7 @@
 {
     "name": "find-array",
     "version": "1.0.0",
-    "description": "Find and return selected object in an array.",
+    "description": "Find and return right elements in an array.",
     "main": "index.js",
     "scripts": {
         "test": "mocha ./test/"
