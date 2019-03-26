@@ -39,7 +39,7 @@ find(testArr, function (obj) {
   return obj.age > 10;
 });
 // => [ { key: 0, value: { age: 16 } }, {key: 1, value: { age: 17 } },
-//    { key: 8, value: { name: 'Khoa', school: 'NAIT', age: 17 } } ]
+//    { key: 7, value: { name: 'Khoa', school: 'NAIT', age: 17 } } ]
 
 ```
 
