@@ -1,0 +1,26 @@
+{
+    "name": "find-array",
+    "version": "1.0.0",
+    "description": "Find and return selected object in an array.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha ./test/"
+    },
+    "author": "Khoa Huynh",
+    "license": "MIT",
+    "devDependencies": {
+        "assert": "^1.4.1",
+        "expect": "^24.5.0",
+        "mocha": "^6.0.2"
+    },
+    "keywords": [
+        "npm",
+        "find",
+        "array",
+        "element",
+        "ele",
+        "find array element",
+        "find-array",
+        "array-find"
+    ]
+}
